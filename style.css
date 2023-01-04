@@ -1,0 +1,70 @@
+body {
+  background: #35acb4;
+  font-family: 'Open Sans', sans-serif;
+  height: 95vh;
+  display: flex;
+  align-items: center;
+}
+
+.box {
+  width: 500px;
+  height: 300px;
+  border: 5px solid #fbfbfb;
+  border-radius: 10px;
+  margin: auto;
+  background: #42DAE5;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+
+  color: #fbfbfb;
+  font-weight: bold;
+  font-size: 45px;
+
+  margin-bottom: 20px;
+}
+
+.box-cronometro {
+  display: flex;
+  justify-content: center;
+  /* gap: 40px; */
+
+  font-size: 60px;
+  font-weight: bold;
+  color: #fbfbfb;
+}
+
+#horas, #minutos, #segundos{
+  border: 1px solid #2b2a2a;
+  border-radius: 15px;
+  padding: 5px;
+}
+
+/* .tempo {
+  display:flex;
+  justify-content: center;
+  gap: 60px;
+} */
+
+/* p {
+  color: #fbfbfb;
+} */
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  /* margin-top: 40px; */
+  margin: 30px auto 20px;
+}
+
+#start , #pause , #restart {
+  height: 40px;
+  width: 80px;
+  background: transparent;
+
+  border: 2px solid #fbfbfb;
+  border-radius: 5px;
+  color:#fbfbfb
+}
