@@ -1,6 +1,6 @@
 # Cronometro
 
-<img src="images/imgFinal.png" alt="exemplo imagem" style="height: 300px;">
+<img src="imgProjeto.png" alt="exemplo imagem" style="height: 300px;">
 
 > Aplicação feita utilizando HTML5, CSS3 e Javascript, onde utilizo o javascript em botões interativos para iniciar, pausar e resetar o cronometro.
 
